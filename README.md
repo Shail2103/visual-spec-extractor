@@ -121,6 +121,8 @@ docker build -t visual-spec-extractor .
 # Run container on port 7860
 docker run -p 7860:7860 -e PORT=7860 visual-spec-extractor
 
+---
+
 ## 📂 Project Structure
 
 ```text
