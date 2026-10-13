@@ -15,7 +15,27 @@
   A full-stack computer vision application powered by <b>EasyOCR</b>, <b>OpenCV</b>, and <b>context-aware NLP heuristics</b> to extract technical specifications, physical ratings, and metadata anchors directly from product packaging and rating plates—featuring a modern <b>Streamlit</b> interface with zero GPU dependency.
 </p>
 
-[Report Bug](https://github.com/YOUR_USERNAME/visual-spec-extractor/issues) · [Request Feature](https://github.com/YOUR_USERNAME/visual-spec-extractor/issues)
+<!-- Live Application Launch Banner -->
+<p align="center">
+  <a href="https://your-app-name.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Launch_Live_App-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Live App" />
+  </a>
+</p>
+
+[🌐 Live Demo](https://your-app-name.streamlit.app) · [Report Bug](https://github.com/YOUR_USERNAME/visual-spec-extractor/issues) · [Request Feature](https://github.com/YOUR_USERNAME/visual-spec-extractor/issues)
+
+</div>
+
+---
+
+## 🚀 Live Demo
+
+Try the live application directly in your browser:
+
+> **Web Application:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)  
+> *Upload any sample packaging label or specification sheet to preview live text detection, bounding box visualization, and structured entity extraction.*
+
+---
 
 </div>
 
