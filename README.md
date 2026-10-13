@@ -17,12 +17,12 @@
 
 <!-- Live Application Launch Banner -->
 <p align="center">
-  <a href="https://your-app-name.streamlit.app" target="_blank">
+  <a href="https://visual-spec-extractor.streamlit.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Launch_Live_App-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Live App" />
   </a>
 </p>
 
-[🌐 Live Demo](https://your-app-name.streamlit.app) · [Report Bug](https://github.com/YOUR_USERNAME/visual-spec-extractor/issues) · [Request Feature](https://github.com/YOUR_USERNAME/visual-spec-extractor/issues)
+[🌐 Live Demo](https://visual-spec-extractor.streamlit.app) · [Report Bug](https://github.com/YOUR_USERNAME/visual-spec-extractor/issues) · [Request Feature](https://github.com/YOUR_USERNAME/visual-spec-extractor/issues)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 Try the live application directly in your browser:
 
-> **Web Application:** [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)  
+> **Web Application:** [https://visual-spec-extractor.streamlit.app](https://your-app-name.streamlit.app)  
 > *Upload any sample packaging label or specification sheet to preview live text detection, bounding box visualization, and structured entity extraction.*
 
 ---
